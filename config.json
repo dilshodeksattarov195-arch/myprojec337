@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperpecrypt",
+        "uuid": 2307102,
+        "checksum": "lvxxv"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
